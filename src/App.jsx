@@ -25,7 +25,6 @@ export default function App() {
 
   function handleMouseDown() {
     setMouseDown(true);
-    setWantsToDraw(true);
   }
 
   function handleMouseUp() {
